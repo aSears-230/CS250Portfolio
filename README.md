@@ -1,1 +1,10 @@
 # CS250Portfolio
+
+How do I interpret user needs and implement them into a program? How does creating "User Stories" help with this?
+  When applicable, I find that it's best to get very specific requests from the users. If I can get them to refer to a specific change to a specific screen, or maybe to give me a specific date/time tracking an error, that is best. In fact, I might be so forward as to request a sketch from somebody with a request, so that I can get as close as possible to exactly what they want. One time, I was working on a project that required me to design an interface for viewing a collection of engineering drawings. I had implemented several navigation systems after receiving feedback, and it seemed as though every time I returned with the requested changes, they wanted something else. I think, if I had been more precise with my questioning, and requested a more precise draft of their ideas, I could have cut down on my workload considerably.
+
+How do I approach developing programs? What Agile processes do I hope to incorporate into my future development work?
+  Generally, I roughly follow the steps outlined in the software development life cycle. When I can, I like to plot out the exact architecture I'll need, including each of the models, classes, and dependencies required. Often times this falls through, as I run into issues I hadn't foreseen. However, I still think that designing a coherent system prior to beginning actual work is the way I've achieved the greatest efficiency. As far as agile-specific processes go, I could certainly track my pending tasks in a more sophisticated manner. Dedicating myself to using a scrum/kanban board consistently might be the next best step for me to take.
+
+What does it mean to be a good team member in software development?
+  I think, generally, as long as I'm following the project's requirements, keeping good notes, and working amicably with my coworkers, I'm being a passable team member. Of course, things like the speed and quality of my work are significant factors, but those would be errors that need to be corrected, with or without a team's involvement.
